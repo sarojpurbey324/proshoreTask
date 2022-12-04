@@ -1,18 +1,18 @@
 # ProshoreTest
 
 ## Project info:
-Java version : Jdk 1.8
-Spring boot version: 2.7.0
-Junit5 version: 5.8.2
-Database: h2
+#### Java version : Jdk 1.8
+#### Spring boot version: 2.7.0
+#### Junit5 version: 5.8.2
+#### Database: h2
 
 ## Project Setup:
-### install jdk 1.8
-### install maven
-### git clone git@github.com:sarojpurbey324/proshoreTask.git
+#### install jdk 1.8
+#### install maven
+#### git clone git@github.com:sarojpurbey324/proshoreTask.git
 ## Go to project directory then,
-### Run -> mvn install
-### Run -> mvn spring-boot:run
+#### Run -> mvn install
+#### Run -> mvn spring-boot:run
 
 ## Apis:
 POST http://localhost:8090/battery
