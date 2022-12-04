@@ -120,5 +120,5 @@ POST http://localhost:8090/battery
     "capacity": 50000
   }
 ]
-
+```
 GET http://localhost:8090/battery?startPostalCode=15000&endPostalCode=50000
