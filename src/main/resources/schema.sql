@@ -1,1 +1,1 @@
-create table battery(name varchar(200), post_code bigint, capacity bigint);
+create table IF NOT EXISTS battery(name varchar(200), post_code bigint, capacity bigint);
